@@ -141,11 +141,11 @@ Content-Type: application/json
     "success": true,
     "predictions": [
         {
-            "aspect": "Instructor",
+            "aspect": "Learning Environment",
             "sentiment": "Positive"
         },
         {
-            "aspect": "Teaching Method", 
+            "aspect": "Teaching Quality", 
             "sentiment": "Positive"
         }
     ]
@@ -174,26 +174,6 @@ GET /models
 - `data_20k.xlsx`: Sample dataset with 20,000 sentences
 - `output_text_files/`: Sample text files for testing
 
-## 🧪 Testing
-
-### Test Models
-
-```bash
-# Test PhoBERT model
-python -c "
-from flask_api_multi_model_host import predict_pho
-result = predict_pho('The instructor teaches very well')
-print(result)
-"
-
-# Test CNN-LSTM model  
-python -c "
-from flask_api_multi_model_host import predict_cnn
-result = predict_cnn('The instructor teaches very well')
-print(result)
-"
-```
-
 ## 📈 Performance
 - **Language Support**: Vietnamese (can be extended for other languages)
 
@@ -214,8 +194,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 👥 Authors
 
 - **Research Group**: NCKH 2024-2025
-- **Email**: [your-email@domain.com]
-- **GitHub**: [your-github-username]
 
 ## 🙏 Acknowledgments
 
