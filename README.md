@@ -1,6 +1,6 @@
 # 🚀 Aspect-Based Sentiment Analysis System
 
-[![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.0+-orange.svg)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/Transformers-4.0+-yellow.svg)](https://huggingface.co/transformers/)
@@ -195,9 +195,6 @@ print(result)
 ```
 
 ## 📈 Performance
-
-- **Accuracy**: >85% on test dataset
-- **Processing Speed**: ~100 sentences/second (CPU), ~500 sentences/second (GPU)
 - **Language Support**: Vietnamese (can be extended for other languages)
 
 ## 🤝 Contributing
