@@ -1,0 +1,98 @@
+{
+  "0": [
+    "Course information",
+    "negative"
+  ],
+  "1": [
+    "Course information",
+    "neutral"
+  ],
+  "2": [
+    "Course information",
+    "positive"
+  ],
+  "3": [
+    "General review",
+    "negative"
+  ],
+  "4": [
+    "General review",
+    "neutral"
+  ],
+  "5": [
+    "General review",
+    "positive"
+  ],
+  "6": [
+    "Learning environment",
+    "negative"
+  ],
+  "7": [
+    "Learning environment",
+    "neutral"
+  ],
+  "8": [
+    "Learning environment",
+    "positive"
+  ],
+  "9": [
+    "Organization and management",
+    "negative"
+  ],
+  "10": [
+    "Organization and management",
+    "neutral"
+  ],
+  "11": [
+    "Organization and management",
+    "positive"
+  ],
+  "12": [
+    "Support from lecturers",
+    "negative"
+  ],
+  "13": [
+    "Support from lecturers",
+    "neutral"
+  ],
+  "14": [
+    "Support from lecturers",
+    "positive"
+  ],
+  "15": [
+    "Teaching quality",
+    "negative"
+  ],
+  "16": [
+    "Teaching quality",
+    "neutral"
+  ],
+  "17": [
+    "Teaching quality",
+    "positive"
+  ],
+  "18": [
+    "Test and evaluation",
+    "negative"
+  ],
+  "19": [
+    "Test and evaluation",
+    "neutral"
+  ],
+  "20": [
+    "Test and evaluation",
+    "positive"
+  ],
+  "21": [
+    "Workload",
+    "negative"
+  ],
+  "22": [
+    "Workload",
+    "neutral"
+  ],
+  "23": [
+    "Workload",
+    "positive"
+  ]
+}
